@@ -1,0 +1,14 @@
+echo "Repositorio:
+Un repositorio es una carpeta especial donde Git guarda todo el historial
+de cambios de un proyecto. Puede estar en tu computador (local) o en
+internet, como en GitHub (remoto).
+
+Commit:
+Un commit es como una foto del estado de tu proyecto en un momento
+especifico. Cada vez que haces un commit, Git guarda los cambios que
+realizaste junto con un mensaje que describe que fue lo que hiciste.
+
+Push:
+El push es el comando que se usa para enviar los commits que tienes
+guardados en tu computador hacia el repositorio remoto en GitHub,
+de modo que queden publicados y visibles en internet." > conceptos-git.txt
